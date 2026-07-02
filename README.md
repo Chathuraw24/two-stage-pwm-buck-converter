@@ -1,6 +1,6 @@
 # Two-Stage PWM Buck Converter — Solar-Powered Charging System
 
-**Course:** EET 4304 – Power Electronics | Year 4, Semester 1
+
 **Institution:** Rajarata University of Sri Lanka, Faculty of Technology
 **Author:** W.M.C.P. Weerasinghe (ENT/2021/108)
 
